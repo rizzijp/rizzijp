@@ -1,3 +1,5 @@
+![Header](./assets/header.png)
+
 <div align="center">
   <h1>Hello! 👋 I'm Juan Pablo</h1>
   <h3>Industrial Engineer | Data Science & AI</h3>
@@ -30,7 +32,7 @@ class Profile:
 
     def technical_interests(self):
         return [
-            "Generative AI & LLMs",      
+            "Generative AI & LLMs",
             "RAG & Semantic Search",
             "AI Agents & Orchestration",
             "Process Automation"
@@ -80,13 +82,12 @@ class Profile:
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **🤖 [NL-to-SQL Chatbot](https://github.com/rizzijp/botassistant)** | (In progress) AI Assistant that allows non-tech users to query databases using natural language. | LLMs, FastAPI, Streamlit |
-| **🌌 [Galaxy Classifier](https://github.com/rizzijp/galaxy-classifier)** | End-to-end MLOps pipeline to classify galaxy images. API serving with persistence. | TensorFlow, Flask, Docker |
-| **⚙️ [Predictive Maintenance](https://github.com/rizzijp/predictive-maintenance)** | Machine Learning model to predict CNC machine failures with a real-time dashboard. | Python, LightGBM, Streamlit |
-| **📧 [Email Analytics Report](https://github.com/rizzijp/emails-report)** | Automated script to process and structure data from raw emails. | Python, Regex, JSON |
-
+| Project                                                                            | Description                                                                                      | Stack                       |
+| :--------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- | :-------------------------- |
+| **🤖 [NL-to-SQL Chatbot](https://github.com/rizzijp/botassistant)**                | (In progress) AI Assistant that allows non-tech users to query databases using natural language. | LLMs, FastAPI, Streamlit    |
+| **🌌 [Galaxy Classifier](https://github.com/rizzijp/galaxy-classifier)**           | End-to-end MLOps pipeline to classify galaxy images. API serving with persistence.               | TensorFlow, Flask, Docker   |
+| **⚙️ [Predictive Maintenance](https://github.com/rizzijp/predictive-maintenance)** | Machine Learning model to predict CNC machine failures with a real-time dashboard.               | Python, LightGBM, Streamlit |
+| **📧 [Email Analytics Report](https://github.com/rizzijp/emails-report)**          | Automated script to process and structure data from raw emails.                                  | Python, Regex, JSON         |
 
 ### 📫 Let's Connect!
 
@@ -99,17 +100,15 @@ I love collaborating on interesting projects and connecting with fellow engineer
 
 </div>
 
-
 ---
 
 <div align="center">
 
-### 💡 *"Data is valuable only when it translates into better decisions."*
+### 💡 _"Data is valuable only when it translates into better decisions."_
 
 ⭐️ If you find any of my projects useful, feel free to give them a star!
 
 </div>
-
 
 <!--
 **rizzijp/rizzijp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
