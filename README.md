@@ -78,7 +78,7 @@ class Profile:
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -86,6 +86,19 @@ class Profile:
 | **🌌 [Galaxy Classifier](https://github.com/rizzijp/galaxy-classifier)** | End-to-end MLOps pipeline to classify galaxy images. API serving with persistence. | TensorFlow, Flask, Docker |
 | **⚙️ [Predictive Maintenance](https://github.com/rizzijp/predictive-maintenance)** | Machine Learning model to predict CNC machine failures with a real-time dashboard. | Python, LightGBM, Streamlit |
 | **📧 [Email Analytics Report](https://github.com/rizzijp/emails-report)** | Automated script to process and structure data from raw emails. | Python, Regex, JSON |
+
+
+### 📫 Let's Connect!
+
+I love collaborating on interesting projects and connecting with fellow engineers and data enthusiasts. If you have an idea, a project, or just want to chat about Data and AI, feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizzijp/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizzijpr@gmail.com)
+
+</div>
+
 
 ---
 
