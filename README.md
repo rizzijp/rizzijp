@@ -2,7 +2,7 @@
   <h1>Hello! 👋 I'm Juan Pablo</h1>
   <h3>Industrial Engineer | Data Science & AI</h3>
   <p>
-    <em>Transforming data into decisions and optimizing processes with AI.</em>
+    <em>Bridging the gap between operational needs and technical solutions.</em>
   </p>
 
   <a href="https://linkedin.com/in/rizzijp">
@@ -19,32 +19,62 @@
 
 I am an **Industrial Engineer** passionate about digital transformation and applying technology to process improvement. I recently completed a Data Science & AI Bootcamp (Dec 2025) to acquire the technical tools needed to solve complex business problems.
 
-My goal is clear: **Bridging the operational vision of engineering with the power of data and programming.**
+**My value proposition: Optimizing business processes by combining Industrial Engineering logic with Data Science & AI.**
 
-- 🔭 **Currently working on:** An **NL-to-SQL Chatbot**. It is a Python project that integrates LLMs to allow database querying using natural language.
-- 🎯 **Next goal:** Exploring workflow orchestration tools (like n8n) to take my scripts to the next level of automation.
-- 💼 **Looking for opportunities in:** Hybrid roles in **Data Analytics, Data Science, Process Improvement and Digital Transformation**.
-- ⚡ **Philosophy:** "If it's repetitive, it can be automated; if it's not measured, it cannot be improved."
+```python
+class Profile:
+    def __init__(self):
+        self.name = "Juan Pablo"
+        self.role = "Industrial Engineer & Data Scientist"
+        self.language = ["Spanish (Native)", "English (Advanced)"]
+
+    def technical_interests(self):
+        return [
+            "Generative AI & LLMs",      
+            "RAG & Semantic Search",
+            "AI Agents & Orchestration",
+            "Process Automation"
+        ]
+```
+
+- 🔭 **Currently working on:** An **NL-to-SQL Chatbot**, a context-aware AI application designed to democratize business data accessibility using Natural Language.
+- 🎯 **Focus:** Designing and building AI-driven applications that automate complex business workflows and drive operational efficiency.
+- 💼 **Open to roles in: Data Analytics, Data Science and Process Automation**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Data Science:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-**Tools & DevOps:**
-<p>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>🧠 Core Data & Analysis</strong></td>
+    <td align="center" width="33%"><strong>🤖 Machine Learning & AI</strong></td>
+    <td align="center" width="33%"><strong>🚀 Deployment & MLOps</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/LiteLLM-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LightGBM-4B275F?style=for-the-badge&logo=lightgbm&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,10 +82,20 @@ My goal is clear: **Bridging the operational vision of engineering with the powe
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🤖 NL-to-SQL Chatbot** | Assistant that allows querying databases using natural language. | Python, LLMs |
-| **📧 Email Analyzer** | Automated script to process and structure data from emails. | Python, Regex, JSON |
+| **🤖 [NL-to-SQL Chatbot](https://github.com/rizzijp/botassistant)** | (In progress) AI Assistant that allows non-tech users to query databases using natural language. | LLMs, FastAPI, Streamlit |
+| **🌌 [Galaxy Classifier](https://github.com/rizzijp/galaxy-classifier)** | End-to-end MLOps pipeline to classify galaxy images. API serving with persistence. | TensorFlow, Flask, Docker |
+| **⚙️ [Predictive Maintenance](https://github.com/rizzijp/predictive-maintenance)** | Machine Learning model to predict CNC machine failures with a real-time dashboard. | Python, LightGBM, Streamlit |
+| **📧 [Email Analytics Report](https://github.com/rizzijp/emails-report)** | Automated script to process and structure data from raw emails. | Python, Regex, JSON |
+
 ---
 
+<div align="center">
+
+### 💡 *"Data is valuable only when it translates into better decisions."*
+
+⭐️ If you find any of my projects useful, feel free to give them a star!
+
+</div>
 
 
 <!--
